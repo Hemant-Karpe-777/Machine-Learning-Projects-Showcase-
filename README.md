@@ -54,7 +54,7 @@ Each project includes clean code, detailed notebooks, visualizations, and README
 ## 📬 Contact
 
 📧 Email: hemant.777karpe@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hemant-karpe])  
+🔗 [LinkedIn]([Hemant Karpe](https://www.linkedin.com/in/hemant-karpe )) 
 🌐 Portfolio: [Hemant-karpe.com](https://hemant-karpe.com)
 
 ---
