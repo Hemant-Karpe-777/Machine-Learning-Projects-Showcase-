@@ -24,6 +24,14 @@ Each project includes clean code, detailed notebooks, visualizations, and README
 
 ---
 
+### 🧠 3. Mental Health Depression Analysis
+- Analyze depression patterns across different professions.
+- Tools: Pandas, Seaborn, Matplotlib, Scikit-learn
+- Includes data cleaning, profession-based filtering, and visual exploration.
+- 📂 [View Project](./Mental%20Health%20Prediction)
+
+---
+
 ## 🧠 Skills Demonstrated
 
 - ✅ Data Cleaning & EDA
