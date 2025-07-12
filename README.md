@@ -20,7 +20,7 @@ Each project includes clean code, detailed notebooks, visualizations, and README
 ### 💳 2. Loan Default Classifier
 - Classify whether a loan will default.
 - Tools: Logistic Regression, XGBoost, SHAP for explainability.
-- 📂 [View Project](./LoanClassifier_ML)
+- 📂 [View Project](./Loan%20Approval)
 
 ---
 
