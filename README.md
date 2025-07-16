@@ -31,6 +31,13 @@ Each project includes clean code, detailed notebooks, visualizations, and README
 - 📂 [View Project](./Mental%20Health%20Prediction)
 
 ---
+### 🤖 4. Handwritten Digit Classification (Neural Network + CNN)
+- 🔢 Built models to classify handwritten digits (0–9) using the MNIST dataset.
+- 🧠 Implemented both **Dense Neural Networks (DNN)** and **Convolutional Neural Networks (CNN)**.
+- 🧪 Applied early stopping and model checkpointing for optimized training.
+- 🛠️ Tools Used: **TensorFlow**, **Keras**, **Matplotlib**, **Seaborn**, **SHAP**
+- 📂 [View Project](./Neural+CNN)
+
 
 ## 🧠 Skills Demonstrated
 
