@@ -35,7 +35,7 @@ Use the MNIST dataset and implement both a baseline MLP and an optimized CNN mod
 - Achieved ~98% accuracy on test set
 
 ### 🔹 Optimized: CNN Architecture
-```python
+
 Conv2D(32) → MaxPooling → Dropout  
 Conv2D(64) → MaxPooling → Dropout  
 Flatten → Dense(128) → Dropout → Dense(10)
