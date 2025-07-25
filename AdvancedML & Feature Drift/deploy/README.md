@@ -2,7 +2,7 @@
 
 A full-stack machine learning web application that predicts whether a loan will be **approved or not** based on applicant details. Built with **Logistic Regression**, **Scikit-Learn Pipelines**, **Flask**, and deployed as a responsive and interactive web app.
 
-![Loan App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhpdmk1eDk2MGNvMGJ3aThybXc0a2UweTRva3NqMmZqdm5uNjhldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+[![Loan app Demo](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/deploy/images/web%20page%20for%20loan%20input.png)](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/deploy)
 
 ---
 
