@@ -109,20 +109,20 @@ OR
 ---
 
 ## 🎯 Key Features
--🔒 Does not reset form on submit — fields retain values
--🌗 Dark Theme with icons and tooltips
--📱 Responsive layout (horizontal, small-size form)
--🎉 Smooth animations for better interactivity
--🧩 Decimals and data types auto-handled in backend
+- 🔒 Does not reset form on submit — fields retain values
+- 🌗 Dark Theme with icons and tooltips
+- 📱 Responsive layout (horizontal, small-size form)
+- 🎉 Smooth animations for better interactivity
+- 🧩 Decimals and data types auto-handled in backend
 
 ---
 
 ## 📌 Future Improvements
--Deploy on Render / HuggingFace Spaces
--Add SHAP explainability
--Multi-model comparison with XGBoost, LightGBM
--Database storage for user input history
--Add PDF report download of prediction
+- Deploy on Render / HuggingFace Spaces
+- Add SHAP explainability
+- Multi-model comparison with XGBoost, LightGBM
+- Database storage for user input history
+- Add PDF report download of prediction
 
 ---
 
