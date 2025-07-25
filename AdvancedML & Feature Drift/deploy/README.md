@@ -81,23 +81,24 @@ Loan Status:
 ---
 
 ## 🔁 How It Works
-1. Model Training (train_model.ipynb)
--Preprocesses data using pipelines.
--Encodes categories & scales numeric columns.
--Trains LogisticRegression.
--Saves entire pipeline with joblib.
+1. Model Training (train_model.ipynb).
+   - Preprocesses data using pipelines.
+   - Encodes categories & scales numeric columns.
+   - Trains LogisticRegression.
+   - Saves entire pipeline with joblib.
 
-2. Web App (app.py)
--Accepts user input via form.
--Converts input to proper types (float/categorical).
--Runs prediction using loaded pipeline.
--Displays prediction with visual output.
+2. Web App (app.py).
+- Accepts user input via form.
+- Converts input to proper types (float/categorical).
+- Runs prediction using loaded pipeline.
+- Displays prediction with visual output.
 
 3. Run App (app.py) locally 
 - Open terminal inside the /deployment/ folder:
 - python app.py  #run app file
 - Running on http://127.0.0.1:5000/
 - fill the fields and see prediction.
+
 ---
 
 ## ✨ Final Output
