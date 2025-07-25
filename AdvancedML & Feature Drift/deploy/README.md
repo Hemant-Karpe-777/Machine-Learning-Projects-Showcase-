@@ -48,7 +48,7 @@ Loan Status:
 ---
 
 ## 🧰 Input Fields Used
-{
+```{
   "person_age": 22.0,
   "person_gender": "female",
   "person_education": "Master",
@@ -63,6 +63,7 @@ Loan Status:
   "credit_score": 561,
   "previous_loan_defaults_on_file": "No"
 }
+```
 
 ---
 
