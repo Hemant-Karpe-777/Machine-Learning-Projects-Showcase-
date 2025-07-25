@@ -28,7 +28,7 @@ This project includes:
 
 The model predicts:
 
-```bash
+
 Loan Status: 
 1 → Loan Approved ✅  
 0 → Loan Denied ❌
@@ -67,7 +67,7 @@ Loan Status:
 ---
 
 ## 📁 Project Structure
-Loan-Approval-App(deployment)/
+```Loan-Approval-App(deployment)/
 │
 ├── train_model.ipynb          # 📊 Jupyter Notebook to train & save the model
 ├── loan_pipeline.pkl          # ✅ Trained model pipeline
@@ -77,7 +77,7 @@ Loan-Approval-App(deployment)/
 ├── static/                    # 💅 CSS, JS, Icons, Animations
 ├── README.md                  # 📘 Project description
 └── requirements.txt           # 📦 Python dependencies
-
+```
 ---
 
 ## 🔁 How It Works
@@ -93,6 +93,11 @@ Loan-Approval-App(deployment)/
 -Runs prediction using loaded pipeline.
 -Displays prediction with visual output.
 
+3. Run App (app.py) locally 
+- Open terminal inside the /deployment/ folder:
+- python app.py  #run app file
+- Running on http://127.0.0.1:5000/
+- fill the fields and see prediction.
 ---
 
 ## ✨ Final Output
