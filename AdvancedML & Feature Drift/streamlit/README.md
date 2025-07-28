@@ -74,6 +74,16 @@ cd loan-approval-streamlit-app
 
 ---
 
+## 🔑 Key Features
+
+- 🧠 **ML Pipeline Deployment**: End-to-end Scikit-learn pipeline with scaling + encoding + model.
+- 🌐 **Streamlit Web App**: Intuitive UI for real-time loan prediction.
+- 🗃️ **Form-based Inputs**: Collects user data via dropdowns, sliders, and number fields.
+- ⚙️ **Model Inference in Real-Time**: Predicts using `.pkl` model loaded from disk.
+- 💾 **Reusability**: Can be deployed locally or hosted on the cloud.
+- 📦 **Portable**: Only `app.py` and `model.pkl` needed for deployment.
+---
+
 ## 🧠 Future Enhancements
 - Add model probability scores (via predict_proba)
 - Add SHAP-based model explanation
@@ -89,6 +99,8 @@ Feel free to fork and build your own ML apps!
 ---
 
 ## 👨‍💻 Author
-**Hemant Karpe**
-Machine Learning Developer
-GitHub | LinkedIn
+### **Hemant Karpe**
+- Machine Learning Developer
+- 📧 Email: hemant.777karpe@gmail.com 
+- 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777) | 🔗 [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
+ 
