@@ -50,7 +50,7 @@ This week focuses on deploying machine learning models and preparing them for pr
 | Local server hosted via `127.0.0.1:5000` | ✅ Done |
 
 **Prediction API Endpoint**:
-```bash
+
 POST /predict
 {
   "features": [22.0, "female", "Master", 71948.0, 0, "RENT", 35000.0, "PERSONAL", 16.02, 0.49, 3.0, 561, "No"]
