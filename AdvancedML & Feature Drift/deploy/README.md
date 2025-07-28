@@ -2,7 +2,7 @@
 
 A full-stack machine learning web application that predicts whether a loan will be **approved or not** based on applicant details. Built with **Logistic Regression**, **Scikit-Learn Pipelines**, **Flask**, and deployed as a responsive and interactive web app.
 
-![Loan App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhpdmk1eDk2MGNvMGJ3aThybXc0a2UweTRva3NqMmZqdm5uNjhldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+[![Loan app Demo](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/deploy/images/web%20page%20for%20loan%20input.png)](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/deploy)
 
 ---
 
@@ -28,7 +28,7 @@ This project includes:
 
 The model predicts:
 
-```bash
+
 Loan Status: 
 1 → Loan Approved ✅  
 0 → Loan Denied ❌
@@ -48,7 +48,7 @@ Loan Status:
 ---
 
 ## 🧰 Input Fields Used
-{
+```{
   "person_age": 22.0,
   "person_gender": "female",
   "person_education": "Master",
@@ -63,11 +63,12 @@ Loan Status:
   "credit_score": 561,
   "previous_loan_defaults_on_file": "No"
 }
+```
 
 ---
 
 ## 📁 Project Structure
-Loan-Approval-App(deployment)/
+```Loan-Approval-App(deployment)/
 │
 ├── train_model.ipynb          # 📊 Jupyter Notebook to train & save the model
 ├── loan_pipeline.pkl          # ✅ Trained model pipeline
@@ -77,21 +78,27 @@ Loan-Approval-App(deployment)/
 ├── static/                    # 💅 CSS, JS, Icons, Animations
 ├── README.md                  # 📘 Project description
 └── requirements.txt           # 📦 Python dependencies
-
+```
 ---
 
 ## 🔁 How It Works
-1. Model Training (train_model.ipynb)
--Preprocesses data using pipelines.
--Encodes categories & scales numeric columns.
--Trains LogisticRegression.
--Saves entire pipeline with joblib.
+1. Model Training (train_model.ipynb).
+   - Preprocesses data using pipelines.
+   - Encodes categories & scales numeric columns.
+   - Trains LogisticRegression.
+   - Saves entire pipeline with joblib.
 
-2. Web App (app.py)
--Accepts user input via form.
--Converts input to proper types (float/categorical).
--Runs prediction using loaded pipeline.
--Displays prediction with visual output.
+2. Web App (app.py).
+- Accepts user input via form.
+- Converts input to proper types (float/categorical).
+- Runs prediction using loaded pipeline.
+- Displays prediction with visual output.
+
+3. Run App (app.py) locally 
+- Open terminal inside the /deployment/ folder:
+- python app.py  #run app file
+- Running on http://127.0.0.1:5000/
+- fill the fields and see prediction.
 
 ---
 
@@ -103,22 +110,29 @@ OR
 ---
 
 ## 🎯 Key Features
--🔒 Does not reset form on submit — fields retain values
--🌗 Dark Theme with icons and tooltips
--📱 Responsive layout (horizontal, small-size form)
--🎉 Smooth animations for better interactivity
--🧩 Decimals and data types auto-handled in backend
+- 🔒 Does not reset form on submit — fields retain values
+- 🌗 Dark Theme with icons and tooltips
+- 📱 Responsive layout (horizontal, small-size form)
+- 🎉 Smooth animations for better interactivity
+- 🧩 Decimals and data types auto-handled in backend
 
 ---
 
 ## 📌 Future Improvements
--Deploy on Render / HuggingFace Spaces
--Add SHAP explainability
--Multi-model comparison with XGBoost, LightGBM
--Database storage for user input history
--Add PDF report download of prediction
+- Deploy on Render / HuggingFace Spaces
+- Add SHAP explainability
+- Multi-model comparison with XGBoost, LightGBM
+- Database storage for user input history
+- Add PDF report download of prediction
 
 ---
 
-Author
+## 🙌 Author
+
+**Hemant Karpe**   
+- 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777)
+- 📧 Email: hemant.777karpe@gmail.com  
+- 🔗 LinkedIn: [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
+
+---
 
