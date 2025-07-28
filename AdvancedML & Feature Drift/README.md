@@ -80,7 +80,7 @@ Streamlit Features:
 
 ## 📁 Project Structure
 ```
-week_4_project/
+AdvancedML & Feature Drift/
 ├── data/
 │   └── loan_data.csv
 ├── notebooks/
