@@ -1,6 +1,6 @@
 # 🚀 ML Monitoring, Drift Detection & Deployment
 
-This week focuses on deploying machine learning models and preparing them for production using best practices like **drift detection**, **model tracking**, and **serving with Flask and Streamlit**. You’ll build everything from tracking systems to real-time prediction APIs.
+In this, we focuses on deploying machine learning models and preparing them for production using best practices like **drift detection**, **model tracking**, and **serving with Flask and Streamlit**. You’ll build everything from tracking systems to real-time prediction APIs.
 
 ---
 
