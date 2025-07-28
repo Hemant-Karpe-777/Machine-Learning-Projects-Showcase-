@@ -92,12 +92,6 @@ cd loan-approval-streamlit-app
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-Feel free to fork and build your own ML apps!
-
----
-
 ## 👨‍💻 Author
 ### **Hemant Karpe**
 - Machine Learning Developer
