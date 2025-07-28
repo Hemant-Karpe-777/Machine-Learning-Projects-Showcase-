@@ -4,6 +4,12 @@ This project is a full-stack Machine Learning web app that predicts whether a lo
 
 ---
 
+<a href="https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/streamlit/Streamlit_result_page/Streamlit_result_page.jpg">
+  <img src="https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/streamlit/Streamlit_result_page/Streamlit_result_page.jpg?raw=true" width="500"/>
+</a>
+
+---
+
 ## 📌 Project Highlights
 
 - ✅ End-to-end ML pipeline using `scikit-learn`
