@@ -25,6 +25,7 @@ This week focuses on deploying machine learning models and preparing them for pr
 | Integrated Evidently into notebook | ✅ Done |
 
 **Tools Used**: `evidently`, `pandas`, `matplotlib`
+- 📂 [View Project](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/report)
 
 ---
 
@@ -37,7 +38,7 @@ This week focuses on deploying machine learning models and preparing them for pr
 | Used `mlflow.sklearn` for saving runs | ✅ Done |
 
 **Alternative**: You also tried running it via `ngrok` and decided to switch to Jupyter/PyCharm due to Colab limitations.
-
+- 📂 [View Project](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/mlflow)
 ---
 
 ### 3. 🌐 API Deployment with Flask
@@ -56,6 +57,7 @@ POST /predict
   "features": [22.0, "female", "Master", 71948.0, 0, "RENT", 35000.0, "PERSONAL", 16.02, 0.49, 3.0, 561, "No"]
 }
 
+- 📂 [View Project](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/deploy)
 ---
 
 ### 4. 🖥️ Streamlit Dashboard App
@@ -71,6 +73,8 @@ Streamlit Features:
 - Real-time predictions
 - Success/error message based on model output
 - Clean interface & fully pipelined model use
+
+  - 📂 [View Project](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/streamlit)
 
 ---
 
