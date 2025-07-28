@@ -4,6 +4,12 @@ This project is a full-stack Machine Learning web app that predicts whether a lo
 
 ---
 
+<a href="https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/streamlit/Streamlit_result_page/Streamlit_result_page.jpg">
+  <img src="https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/blob/main/AdvancedML%20%26%20Feature%20Drift/streamlit/Streamlit_result_page/Streamlit_result_page.jpg?raw=true" width="500"/>
+</a>
+
+---
+
 ## 📌 Project Highlights
 
 - ✅ End-to-end ML pipeline using `scikit-learn`
@@ -43,6 +49,17 @@ This project is a full-stack Machine Learning web app that predicts whether a lo
 
 ---
 
+## 📦 File Structure
+```
+loan-approval-streamlit-app/
+├── app.py                 # Streamlit frontend
+├── model.pkl              # Trained ML pipeline
+├── loan_data.csv          # (Optional) Source dataset
+├── README.md
+├── requirements.txt
+```
+---
+
 ## 🖥 How to Run Locally
 
 ### 1. Clone the Repository
@@ -63,6 +80,16 @@ cd loan-approval-streamlit-app
 
 ---
 
+## 🔑 Key Features
+
+- 🧠 **ML Pipeline Deployment**: End-to-end Scikit-learn pipeline with scaling + encoding + model.
+- 🌐 **Streamlit Web App**: Intuitive UI for real-time loan prediction.
+- 🗃️ **Form-based Inputs**: Collects user data via dropdowns, sliders, and number fields.
+- ⚙️ **Model Inference in Real-Time**: Predicts using `.pkl` model loaded from disk.
+- 💾 **Reusability**: Can be deployed locally or hosted on the cloud.
+- 📦 **Portable**: Only `app.py` and `model.pkl` needed for deployment.
+---
+
 ## 🧠 Future Enhancements
 - Add model probability scores (via predict_proba)
 - Add SHAP-based model explanation
@@ -71,8 +98,9 @@ cd loan-approval-streamlit-app
 
 ---
 
-👨‍💻 Author
-Hemant Karpe
-Machine Learning Developer
-GitHub | LinkedIn
-
+## 👨‍💻 Author
+### **Hemant Karpe**
+- Machine Learning Developer
+- 📧 Email: hemant.777karpe@gmail.com 
+- 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777) | 🔗 [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
+ 
