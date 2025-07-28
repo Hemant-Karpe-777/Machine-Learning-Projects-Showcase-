@@ -43,6 +43,17 @@ This project is a full-stack Machine Learning web app that predicts whether a lo
 
 ---
 
+## 📦 File Structure
+```
+loan-approval-streamlit-app/
+├── app.py                 # Streamlit frontend
+├── model.pkl              # Trained ML pipeline
+├── loan_data.csv          # (Optional) Source dataset
+├── README.md
+├── requirements.txt
+```
+---
+
 ## 🖥 How to Run Locally
 
 ### 1. Clone the Repository
@@ -71,8 +82,13 @@ cd loan-approval-streamlit-app
 
 ---
 
-👨‍💻 Author
-Hemant Karpe
+## 📜 License
+This project is licensed under the MIT License.
+Feel free to fork and build your own ML apps!
+
+---
+
+## 👨‍💻 Author
+**Hemant Karpe**
 Machine Learning Developer
 GitHub | LinkedIn
-
