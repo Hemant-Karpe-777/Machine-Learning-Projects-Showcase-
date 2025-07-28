@@ -1,4 +1,4 @@
-# 🧠 Loan Approval Prediction App
+# 🧠 Loan Approval Prediction App (local host : 5000)
 
 A full-stack machine learning web application that predicts whether a loan will be **approved or not** based on applicant details. Built with **Logistic Regression**, **Scikit-Learn Pipelines**, **Flask**, and deployed as a responsive and interactive web app.
 
