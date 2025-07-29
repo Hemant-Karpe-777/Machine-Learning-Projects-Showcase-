@@ -41,8 +41,11 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ### 🔹 Target Distribution: SalePrice
 ![Target](images/Distributions%20of%20Sale%20Prices.png) 
 
+### 🔹 Target Distribution: Numeric Features
+![Target](images/Distributions%20of%20Numeric%20Features.png)
+
 ### 🔹 GrLivArea vs SalePrice
-![Area vs PricePrice](images/scatter_area_price.png)](images/scatter_area_price.png)
+![Area vs PricePrice](images/Living%20Area%20vs%20Sale%20Price.png)](images/scatter_area_price.png)
 
 ---
 
