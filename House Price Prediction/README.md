@@ -12,7 +12,7 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/ # Raw dataset from Kaggle
 ├── cleaned_data/ # Cleaned CSV used for modeling
 ├── notebooks/ # All experiment notebooks (Day1 to Day6)
@@ -20,7 +20,7 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ├── explainability/ # SHAP plots and analysis
 ├── images/ # EDA plots and visuals
 ├── README.md # This file
-
+```
 
 ---
 
