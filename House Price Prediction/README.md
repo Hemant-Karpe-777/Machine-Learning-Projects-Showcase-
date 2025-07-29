@@ -39,10 +39,10 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ## 📊 EDA Snapshots
 
 ### 🔹 Target Distribution: SalePrice
-![Target](images/hist_target.png)
+![Target](images/Distributions%20of%20Sale%20Prices.png) 
 
 ### 🔹 GrLivArea vs SalePrice
-![Area vs Price](images/scatter_area_price.png)
+![Area vs PricePrice](images/scatter_area_price.png)](images/scatter_area_price.png)
 
 ---
 
