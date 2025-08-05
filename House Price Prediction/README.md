@@ -12,7 +12,7 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/ # Raw dataset from Kaggle
 ├── cleaned_data/ # Cleaned CSV used for modeling
 ├── notebooks/ # All experiment notebooks (Day1 to Day6)
@@ -20,7 +20,7 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ├── explainability/ # SHAP plots and analysis
 ├── images/ # EDA plots and visuals
 ├── README.md # This file
-
+```
 
 ---
 
@@ -39,10 +39,13 @@ This is a regression task using the **Kaggle: House Prices - Advanced Regression
 ## 📊 EDA Snapshots
 
 ### 🔹 Target Distribution: SalePrice
-![Target](images/hist_target.png)
+![Target](images/Distributions%20of%20Sale%20Prices.png) 
+
+### 🔹 Target Distribution: Numeric Features
+![Target](images/Distributions%20of%20Numeric%20Features.png)
 
 ### 🔹 GrLivArea vs SalePrice
-![Area vs Price](images/scatter_area_price.png)
+![Area vs PricePrice](images/Living%20Area%20vs%20Sale%20Price.png)](images/scatter_area_price.png)
 
 ---
 

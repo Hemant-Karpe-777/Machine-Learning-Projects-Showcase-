@@ -1,6 +1,6 @@
-# 🚀 Week 4: ML Monitoring, Drift Detection & Deployment
+# 🚀 ML Monitoring, Drift Detection & Deployment
 
-This week focuses on deploying machine learning models and preparing them for production using best practices like **drift detection**, **model tracking**, and **serving with Flask and Streamlit**. You’ll build everything from tracking systems to real-time prediction APIs.
+In this, we focuses on deploying machine learning models and preparing them for production using best practices like **drift detection**, **model tracking**, and **serving with Flask and Streamlit**. You’ll build everything from tracking systems to real-time prediction APIs.
 
 ---
 
@@ -80,19 +80,24 @@ Streamlit Features:
 
 ## 📁 Project Structure
 ```
-week_4_project/
+AdvancedML & Feature Drift/
 ├── data/
-│   └── loan_data.csv
+│   └── loan_data.csv  #training data
 ├── notebooks/
 │   ├── drift_analysis.ipynb
-│   ├── mlflow_tracking.ipynb
+│   ├── AdvancedML_&_Feature_Drift_notebooks.ipynb
 │   └── train_model.ipynb
-├── deployment/
-│   ├── app.py             # Flask API
-│   ├── model.pkl          # Trained pipeline
-│   └── requirements.txt
-├── streamlit_app/
-│   └── app.py             # Streamlit UI
+├── mlflows/                # mlflow for version control and model experiments 
+│   ├── mlflow_tracking.ipynb
+│   └──  mlflow_tracking.csv
+├── report/                # EVIDENTLY for data drift detection 
+│   ├── notebook.ipynb
+│   └──  report image      
+├── deploy/                # Flask App (LocalHost : 5000)
+│   ├── app.py            
+│   └──  model.pkl         
+├── streamlit/             # streamlit_app
+│   └── app.py            
 └── README.md
 ```
 ---
