@@ -1,6 +1,6 @@
 # 📚 Advanced Model Interpretability & AI Integration
 
-This week focuses on **explaining machine learning models**, combining **traditional interpretability tools** like SHAP & LIME with **modern LLM-based Prompt Engineering** to create **fully automated, human-friendly explanations** for predictions.
+This repo focuses on **explaining machine learning models**, combining **traditional interpretability tools** like SHAP & LIME with **modern LLM-based Prompt Engineering** to create **fully automated, human-friendly explanations** for predictions.
 
 ---
 
