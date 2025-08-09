@@ -100,3 +100,11 @@ jupyter notebook
 - Combine multiple models in an ensemble
 - Generate human-readable insights with LLMs
 - Produce stakeholder-ready reports automatically
+
+---
+
+## 👨‍💻 Author
+### **Hemant Karpe**
+- Machine Learning Developer
+- 📧 Email: hemant.777karpe@gmail.com 
+- 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777) | 🔗 [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
